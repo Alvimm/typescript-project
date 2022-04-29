@@ -1,4 +1,4 @@
 node_modules/
-api-server/node_modules
+api-server
 app/dist/js
 app/index.html
