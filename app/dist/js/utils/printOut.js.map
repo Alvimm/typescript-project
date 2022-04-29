@@ -1,1 +1,0 @@
-{"version":3,"file":"printOut.js","sourceRoot":"","sources":["../../../src/utils/printOut.ts"],"names":[],"mappings":"AAEA,MAAM,UAAU,QAAQ,CAAC,GAAG,OAAoB;IAC9C,KAAK,IAAI,MAAM,IAAI,OAAO,EAAE;QAC1B,OAAO,CAAC,GAAG,CAAC,MAAM,CAAC,OAAO,EAAE,CAAC,CAAC;KAC/B;AACH,CAAC"}
